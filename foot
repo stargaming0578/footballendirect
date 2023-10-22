@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Streaming de Football</title>
+    <style>
+        .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+        }
+    </style>
+</head>
+<body>
+   
+    <h1>Les ligues que nous diffusons en streaming :</h1>
+    <ul>
+        <li>La Liga</li>
+        <li>Ligue 1</li>
+        <li>Premier League</li>
+        <li>Serie A</li>
+        <li>Bundesliga</li>
+    </ul>
+
+    <p>Suivez-nous sur les réseaux sociaux :</p>
+    <ul>
+        <li>Twitter: <a href="https://twitter.com/votrenomdetwitter">Notre profil Twitter</a></li>
+        <li>Telegram: <a href="https://t.me/votrenomdetelegram">Notre profil Telegram</a></li>
+        <li>Instagram: <a href="https://www.instagram.com/votrenomdeinstagram/">Notre profil Instagram</a></li>
+    </ul>
+
+    <iframe src="https://kellen61.superabbit77.world/fr/football/" style="width:100%; height:600px; border:none;"></iframe>
+</body>
+</html>
+
